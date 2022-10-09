@@ -3,11 +3,11 @@
 
 ### I'm Lamchi
 
-- 👋  `爬虫` && `网页逆向` && `app逆向`.
-- 🌱  Currently working in Shenzhen, China.
-- 💬  会一点点网页逆向、会一点点AST、会一点点app逆向、对异步有一定了解
-- ⭐  开发不用Windows
--  ⚡  技巧：`ctrl + c  && ctrl + v`
+- 👋 `【爬虫 &&网页逆向 &&app逆向】` 
+- 🌱 `Currently working in Shenzhen, China`
+- 💬  `会一点点网页逆向、会一点点AST、会一点点app逆向、对异步有一定了解`  
+- ⭐ `开发别用Windows，因为不好用`
+-  ⚡ `技巧：ctrl + c  && ctrl + v`
 
 ### 🛠 技术栈 | Tech Stack
 
@@ -24,6 +24,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 
-> ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
+> ***I love to make friends. so if you want to say hi, I'll be happy to meet you more! 😊***
 
 ⭐️ From [Lamchi](https://github.com/Lamchi-Joo)
