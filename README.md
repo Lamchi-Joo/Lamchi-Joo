@@ -1,4 +1,6 @@
 ## Hello GitHub Fans 👋
+<img src="https://api.xecades.xyz/api?img=3&quote=%F0%9F%98%8A%F0%9F%98%8A%F0%9F%98%8A&github=Lamchi" alt>
+
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
 ### I'm Lamchi
